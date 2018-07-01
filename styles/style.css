@@ -1,0 +1,64 @@
+
+*{
+
+    margin: 10px;
+
+   
+}
+
+html{
+
+
+    background: #E2E2DE;
+     transition: background .5s;
+
+}
+
+
+
+h1 , #pname  {
+
+			color:#32CD32;
+
+			text-align: center;
+
+	
+		  }
+
+
+img {
+
+ 	border-radius: 8px;
+  	display: block;
+    position: absolute;
+    top: 8px;
+    right: 100px;
+    font-size: 18px;
+
+}	
+
+
+h2	{
+
+	color:#32CD32;
+
+}	  
+
+ul,ol,p{
+
+	color: black;
+	font-family: 'Roboto', sans-serif;
+}
+
+#fbp{
+
+
+ 	border-radius: 8px;
+    position: absolute;
+    top:870px;
+    bottom: 15px;
+    left: 400px;
+    font-size: 18px;
+
+
+}
